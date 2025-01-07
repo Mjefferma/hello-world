@@ -1,2 +1,1 @@
-# hello-world
-is to help me develop as a programmer
+I am a novice programmer hoping to learn about coding and other programs during my time at KSU. 
